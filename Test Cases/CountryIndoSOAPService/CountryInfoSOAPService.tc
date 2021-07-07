@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CountryInfoSOAPService</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c4b7386-15c9-4ca1-bda5-074c2cabb5f2</testCaseGuid>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>77aac918-6d7e-4941-b92f-d30d9f652397</id>
+      <masked>false</masked>
+      <name>CountryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>10591367-a5c1-4543-bd69-7925a281b4fe</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>6ace762e-74b1-4f28-9c0c-7946630b33ec</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+</TestCaseEntity>
